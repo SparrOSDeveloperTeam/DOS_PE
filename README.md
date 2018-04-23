@@ -14,6 +14,7 @@ Here's a list of software we will be featuring for the OS:
 <li>VisualBoyAdvance?, ZSNES, and Nestopia?</li>
 <li>Stella 2600 Emulator?</li>
 <li>FreeDOOM and ioQuake3?</li>
+<li>Explorer Shell</li>
 <li>USB, CD-ROM/DVD-ROM, Sound, and Mouse Drivers</li>
 
 A list of every software we use will be located in this txt.
