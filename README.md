@@ -6,7 +6,7 @@ A project with a goal to run on almost any x86 and x86_64 system.
 
 Here's a list of software we will be featuring for the OS:
 
-<li>MPlayer 1.61d</li>
+<li>MPXPlayer 1.61d</li>
 <li>VICE Versatile Commodore Emulation</li>
 <li>Zip/Tar/Rar/GZip/BZip Encryption</li>
 <li>Unzip/Untar/Unrar Extraction</li>
