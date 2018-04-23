@@ -8,7 +8,7 @@ Here's a list of software we will be featuring for the OS:
 
 <li>MPXPlayer 1.61d</li>
 <li>VICE Versatile Commodore Emulation</li>
-<li>Zip/Tar/Rar/GZip/BZip Encryption</li>
+<li>Zip/Tar/Rar/GZip Encryption</li>
 <li>Unzip/Untar/Unrar Extraction</li>
 <li>OpenGEM 5</li>
 <li>VisualBoyAdvance?, ZSNES, and Nestopia?</li>
